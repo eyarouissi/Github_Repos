@@ -1,7 +1,7 @@
 # Programming_task
-A small React web frontend that gives an overview to all my personal repositories using the GitHub GraphQL API.
+A small React web frontend that gives an overview to all the personal repositories using the GitHub GraphQL API.
 ## Introduction
-This project consists of a small react web frontend that displays all my personal repositories, For each repository:
+This project consists of a small react web frontend that displays all the personal repositories, For each repository:
 *  shows Author, Date of creation and primary language
 *  displays commits
 *  displays open/closed issues and gives you the possibility to comment on a certain issue
