@@ -5,8 +5,19 @@ This project consists of a small react web frontend that displays all my persona
 *  shows Author, Date of creation and primary language
 *  displays commits
 *  displays open/closed issues and gives you the possibility to comment on a certain issue
-*  displays content of a specific YAML named "test_file"
-*  you can STAR/UNSTAR or WATCH/UNWATCH the repository
+*  displays content of a specific YAML named "test_file" if exists
+*  you can **STAR/UNSTAR** or **WATCH/UNWATCH** the repository
+
+
+Here is a quick overview on the website:
+
+### HomePage
+
+![HomePage](https://user-images.githubusercontent.com/63970415/151379676-a6473dc6-23b6-43bd-a2e1-10770cfb719f.PNG)
+
+### Git Repositories Page
+
+![Git_Repos](https://user-images.githubusercontent.com/63970415/151380659-01727f38-9867-4c0c-b163-6708e6f785b5.PNG)
 
 ## Feature
 *  React with create-react-app
