@@ -1,0 +1,22 @@
+.Commits {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 20px;
+  }
+  
+  .Commits-content {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .CommitList {
+    margin: 20px 0;
+  }
+  
+  @media only screen and (max-device-width: 480px) {
+    .Commits-content {
+      align-items: center;
+    }
+  }
