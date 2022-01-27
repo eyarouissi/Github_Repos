@@ -17,6 +17,7 @@ This project consists of a small react web frontend that displays all my persona
 *  CSS-in-JS styles
 
 ## hierarchical folder structure
+```bash
 Programming_task/
 ├─ node_modules/
 ├─ public/
@@ -79,7 +80,7 @@ Programming_task/
 ├─ README.md
 ├─ .env
 ├─ test_file.yml
-
+```
 
 ## Installation
 
