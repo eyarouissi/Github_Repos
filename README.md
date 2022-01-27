@@ -86,8 +86,8 @@ Programming_task/
 *  git clone https://github.com/eyarouissi/Programming_task.git
 *  cd Programming_task
 *  add your own GitHub personal access token in a .env file in your root folder:
-  * scopes/permissions you need to check: admin:org, repo, user, notifications
-  * REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN=xxxXXX
+  ** scopes/permissions you need to check: admin:org, repo, user, notifications
+  ** REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN=xxxXXX
 *  npm install
 *  npm start
 *  visit http://localhost:3000
