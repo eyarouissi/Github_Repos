@@ -8,7 +8,7 @@ This project consists of a small react web frontend that displays all my persona
 *  displays content of a specific YAML named "test_file"
 *  you can STAR/UNSTAR or WATCH/UNWATCH the repository
 
-##Feature
+## Feature
 *  React with create-react-app
 *  React Router 
 *  Apollo with GitHub GraphQL API
@@ -81,13 +81,13 @@ Programming_task/
 ├─ test_file.yml
 
 
-##Installation
+## Installation
 
 *  git clone https://github.com/eyarouissi/Programming_task.git
 *  cd Programming_task
 *  add your own GitHub personal access token in a .env file in your root folder:
-  **scopes/permissions you need to check: admin:org, repo, user, notifications
-  **REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN=xxxXXX
+  * scopes/permissions you need to check: admin:org, repo, user, notifications
+  * REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN=xxxXXX
 *  npm install
 *  npm start
 *  visit http://localhost:3000
